@@ -1,1 +1,1 @@
-Starter files for react dev
+taskmanager tryhard study with react-redux
