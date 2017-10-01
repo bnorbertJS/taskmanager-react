@@ -1,0 +1,49 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+.cf{
+  clear: both;
+}
+
+.app-cont{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+#container{
+
+}
+
+hide-time{
+  display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel Decorative', cursive;
+}
+p, div {
+    font-family: 'IM Fell Double Pica', serif;
+}
+
+.search-task-input{
+  width: 90%;
+  margin-left: 20px;
+  border-bottom-width: medium;
+  border-bottom: 2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: inherit;
+  border-radius: 0;
+}
+
+.search-task-input:focus{
+  background-color: inherit;
+  color: black;
+  border-radius: 0;
+  border-bottom-width: medium;
+  border-bottom: 2px solid #A8A8A8;
+}

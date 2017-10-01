@@ -1,0 +1,27 @@
+.taskdetails-container{
+
+}
+
+.taskdetails-inner-cont{
+  width: 70%;
+  height: auto;
+  border: none;
+  float: left;
+}
+
+.taskdetails-title{
+}
+
+.taskdetails-timer{
+  padding: 10px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.taskdetails-body{
+  padding: 10px;
+}
+
+.taskdetails-footer{
+  padding: 20px;
+}

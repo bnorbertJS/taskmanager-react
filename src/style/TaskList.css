@@ -1,0 +1,12 @@
+.no-round{
+  border-radius: 0;
+  width: 30%;
+  height: 60%;
+  border: none;
+  float: left;
+  margin-bottom: 0;
+}
+
+.scroll{
+  overflow-y: scroll;
+}
