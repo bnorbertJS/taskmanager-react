@@ -1,1 +1,1 @@
-taskmanager tryhard study with react-redux
+taskmanager tryhard prez
